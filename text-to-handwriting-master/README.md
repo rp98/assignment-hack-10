@@ -1,5 +1,5 @@
 <p align="center">
- I hate writing assignments so I made this tool that converts text to an image that looks like handwriting😛
+ I hate writing assignments so I made this tool that converts text to an image that looks like handwriting
 
 </p>
 
@@ -21,4 +21,4 @@ Checkout [Contribution Guide](CONTRIBUTING.md) for local setup and contribution 
 ---
 
 Bye!
-Have fun 🦄
+Have fun 
